@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1621425874 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1621430320 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\funciones.h
+
+1621434588 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1621430710 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"tipo.h"
+
+1621435152 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\tipo.h
+
+1621430255 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"color.h"
+
+1621430195 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\color.h
+
+1621435864 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+
+1621434495 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\trabajo.h
+	"mascotas.h"
+	"servicio.h"
+
+1621431375 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\mascotas.h
+	"tipo.h"
+	"color.h"
+	"funciones.h"
+
+1621434513 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\servicio.h
+	"funciones.h"
+
+1621435843 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+	"menu.h"
+
+1621435524 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+
+1621434979 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1621434954 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\menu.h
+
+1621909327 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1622040519 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\funciones.h
+
+1622040531 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+
+1622038938 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\trabajo.h
+	"mascotas.h"
+	"servicio.h"
+	"fecha.h"
+	"menu.h"
+
+1622040744 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\mascotas.h
+	"tipo.h"
+	"color.h"
+	"funciones.h"
+	"cliente.h"
+
+1622037364 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\tipo.h
+
+1622037433 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\color.h
+
+1622037654 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\servicio.h
+	"funciones.h"
+
+1622039002 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\menu.h
+
+1622031342 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1621969696 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1621901694 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1622033270 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+
+1622040745 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+
+1621902784 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+
+1621909324 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+
+1622040771 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\fecha.h
+
+1622040338 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\cliente.h
+	"funciones.h"
+
+1622040525 source:c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+
+1622040728 c:\users\maty\documents\carrera\primer cuatrimestre\random\prutscher.matias.pplabi\1erparciallaboratorio1\datawarehouse.h
+
